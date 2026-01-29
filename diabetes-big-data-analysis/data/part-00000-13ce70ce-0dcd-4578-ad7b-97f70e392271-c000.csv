@@ -1,0 +1,7 @@
+GlucoseLevel,Outcome,count
+DiabeticRange,0,68
+DiabeticRange,1,94
+Normal,0,94
+Normal,1,8
+Prediabetic,0,100
+Prediabetic,1,28
